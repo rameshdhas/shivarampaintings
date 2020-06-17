@@ -1,0 +1,41 @@
+.about-area .about-caption2 .send-cv span {
+    color: #000a2d;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.hero-bg{
+	background-image: url("../img/hero/h1_hero.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.slider-height{
+	min-height: 600px;
+}
+
+.section-paddingt30 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.header-logo{
+	width:150px;
+}
+
+.footer-area .footer-top .footer-top-cap span {
+    font-size: 20px;
+    display: block;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.services-area{
+	background-image: url(../img/gallery/shape1.png);
+	background-repeat: no-repeat;
+}
